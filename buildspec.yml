@@ -17,6 +17,6 @@ phases:
 artifacts:
   base-directory: '.'
   files:
-    - 'dist/my-angular-project/browser/**/*'
+    - 'dist/my-angular-project/**/*'
     - appspec.yml
     - 'deploy-scripts/**/*'
